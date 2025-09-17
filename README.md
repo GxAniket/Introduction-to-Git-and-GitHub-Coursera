@@ -104,13 +104,6 @@ This includes:
 ---
 
 <p align="center">
-  📜 <strong>License</strong><br><br>
-  Licensed under the <a href="LICENSE">MIT License</a> — feel free to reuse or adapt my notes/code.
-</p>
-
----
-
-<p align="center">
   🙌 Author  
   <br><br>
   Made with ❤️ by <strong>Aniket Sundriyal</strong>
